@@ -1,0 +1,146 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    margin-top: -20px;
+    font-family: 'Titillium Web', sans-serif;
+   }
+   #form{
+    width: 1000px;
+    margin-top: 20px;
+    margin: 5px;
+    height: 560px;
+    border-radius: 25px;
+    border:2px solid #0fe4d2;
+   background-color: whitesmoke;
+   }
+   #rep{
+       background-color: rgb(235, 245, 245);
+       width: 975px;
+       margin-top: 20px;
+       margin: 5px;
+       height: 500px;
+       border-radius: 25px;
+       border:2px solid #e7faf8;
+   }
+   #bas{
+       margin-top: -20px;
+   }
+   #g{
+float: left;
+margin-left: 300px;
+   }
+   #d{
+float: right;
+margin-right: 300px;
+   }
+   
+   h2{
+       font-size: 80px;
+       color: turquoise;
+       font-family: 'Titillium Web', sans-serif;
+   }
+   b{
+       color: rgb(9, 123, 158);
+   }
+   h3{
+      text-decoration: blink;
+       font-size: 30px;
+       margin-top: 22px;
+       font-family: 'Titillium Web', sans-serif;
+       color: rgb(9, 123, 158);
+   }
+   #but31{
+    text-decoration: blink;
+    font-size: 20px;
+    margin-top: 22px;
+    font-family: 'Titillium Web', sans-serif;
+    color: rgb(9, 123, 158);
+   }
+   #but41{
+    text-decoration: blink;
+    font-size: 20px;
+    margin-top: 22px;
+    font-family: 'Titillium Web', sans-serif;
+    color: rgb(9, 123, 158);
+   }
+   h4{
+    text-decoration: blink;
+     font-size: 30px;
+     margin-top: -3px;
+     font-family: 'Titillium Web', sans-serif;
+     color: rgb(9, 123, 158);
+ }
+    #bouton2{
+    width: 160px;
+    height: 100px;
+border: none;
+border-radius: 10px;
+font-family: 'Titillium Web', sans-serif;
+background-color: rgb(28, 190, 196);
+   }
+   #bouton3{
+    width: 160px;
+    height: 90px;
+border: none;
+border-radius: 10px;
+font-family: 'Titillium Web', sans-serif;
+background-color: rgb(28, 190, 196);
+   }
+   #bouton21{
+    width: 160px;
+    height: 70px;
+    margin-top: -4px;
+border-radius: 10px;
+font-family: 'Titillium Web', sans-serif;
+background-color: rgb(28, 190, 196);
+border: none;
+   }
+   #bouton31{
+    width: 160px;
+    height: 70px;
+    margin-top: -4px;
+border-radius: 10px;
+border: none;
+font-family: 'Titillium Web', sans-serif;
+background-color: rgb(28, 190, 196);
+   }
+   a{
+    font-family: 'Titillium Web', sans-serif;
+    text-decoration: none;
+   }
+   
+   footer{
+       height: 575px;
+       width: 680px;
+       margin: 0 auto;
+       display: flex;
+       background: linear-gradient(rgba(7, 68, 70, 0.7), rgb(7, 68, 70, 0.7)),url(../image/img-bg.jpg);
+       background-size: cover;background-repeat: no-repeat;
+	
+   }
+   
+   #conteneur{
+       display: flex;
+       margin: 0 auto;
+       width: 1000px;
+       background-color: rgb(43, 42, 42);
+       font-family: 'Titillium Web', sans-serif;
+   }
+   #zoneG{
+       background-image: url(../image/logo-QuizzSA.png);
+       background-repeat: no-repeat;
+       width: 150px;
+       height: 110px;
+       background-size: 67px;
+   }
+   #zoneD{
+     
+       height: 110px;
+       width : 850px; 
+       text-align: center;
+       line-height:90px; /* centrage vertical */
+       text-align:center; /* centrage horizontal */
+    color: white;
+    margin-left: -47px;
+   }
