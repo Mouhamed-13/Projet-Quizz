@@ -18,6 +18,8 @@ Modifier les paramétres d'accés à la base de donnée dans le dossier libs sur
 
 Puis lancez votre serveur apache et naviguez sur le site
 
+NB;régler votre navifgateur en modifiant le zoom sur 80% pour profiter d'une meilleure expérience
+
 ## Lien GitHub du projet
 
 https://github.com/Mouhamed-13/Projet-Quizz
